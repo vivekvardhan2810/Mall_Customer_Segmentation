@@ -7,4 +7,4 @@ store layouts, and enhancing customer experiences.
 </p>
 <p> The Dataset is taken from Kaggle, Link: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python</p>
 <p> Here, I had used <b>K- Means Clustering</b> For Machine Learning Approach</p>
-<p> Here, I had done another task which is based on the above dataset like Taking all Columns  </p>
+<p> Here, I had done another task which is based on the above dataset like Taking all Columns gender, age, annual income and spending score </p>
