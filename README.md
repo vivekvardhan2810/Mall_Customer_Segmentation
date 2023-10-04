@@ -6,4 +6,4 @@ behaviors. This segmentation is valuable for tailoring marketing efforts, optimi
 store layouts, and enhancing customer experiences.
 </p>
 <p> The Dataset is taken from Kaggle, Link: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python</p>
-<p>Here, I had used <b>K- Means Clustering</b> For Machine Learning Approach</p>
+<p> Here, I had used <b>K- Means Clustering</b> For Machine Learning Approach</p>
